@@ -1,0 +1,11 @@
+.content h1{
+    border-radius: 4px;
+    color: #eee;
+    background-color: #888;
+    padding-left: 10px;
+    padding: 10px;
+}
+
+.content p{
+    color: #222;
+}
